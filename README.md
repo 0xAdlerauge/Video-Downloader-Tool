@@ -1,12 +1,16 @@
-# Video Downloader CLI 
+<p align="center">
+  <img src="logoVDT.png" alt="Video Downloader Logo" width="300">
+</p>
+
+# Video Downloader CLI
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
-A robust, interactive Command Line Interface (CLI) application for downloading videos and extracting audio from thousands of websites, powered by `yt-dlp`.
+A robust, interactive Command Line Interface (CLI) application for downloading videos and extracting audio from thousands of websites, powered by `yt-dlp`
 
-Created by **adlerauge**
+Created by adlerauge**
 
 ## ✨ Features
 
@@ -20,6 +24,7 @@ Created by **adlerauge**
 
 - [Python 3.8+](https://www.python.org/downloads/)
 - [FFmpeg](https://ffmpeg.org/download.html) (required for merging video/audio tracks and MP3 conversion)
+  - *Windows users can install it via:* `winget install Gyan.FFmpeg`
 
 ## 🚀 Installation
 
