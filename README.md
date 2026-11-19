@@ -10,7 +10,7 @@
 
 A robust, interactive Command Line Interface (CLI) application for downloading videos and extracting audio from thousands of websites, powered by `yt-dlp`
 
-Created by adlerauge**
+Created by adlerauge
 
 ## ✨ Features
 
